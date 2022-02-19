@@ -1,0 +1,43 @@
+/*footer*/
+
+.footer-container{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    margin: auto;
+    height: 300px;
+    background-color:rgba(217, 216, 220, 0.938);
+}
+
+.footer-container ul{
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.footer-container li{
+    line-height: 1.7;
+    
+}
+.footer-container{
+display: flex;
+justify-content: space-around;
+}
+
+/*second-footer*/
+
+.second-footer{
+    width: auto;
+    height: 20px;
+    text-align: center;
+}
+
+.bottom-border{
+    border-bottom: 1px solid;
+    width: 170px;
+    
+}
+/*three boxes*/
+#one, #two, #three{
+    text-align: center;
+    margin-bottom: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
